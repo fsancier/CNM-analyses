@@ -1,2 +1,2 @@
 # CNM-analyses
-Analyses done for CNM study using linear mixed effects models
+Analyses done for a CNM study using linear mixed effects models
